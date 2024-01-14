@@ -1,0 +1,14 @@
+.head p {
+  color: blueviolet;
+  text-align: center;
+}
+
+.head h1 {
+  color: brown;
+  text-align: center;
+}
+
+.clickMe {
+  margin: 0;
+  padding-left: 47%;
+}
